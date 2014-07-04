@@ -1,0 +1,9 @@
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Tile Engine.csproj.GenerateResource.Cache
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Base Project (Always Copy!).exe
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\bin\Debug\Base Project (Always Copy!).exe.config
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\bin\Debug\Base Project (Always Copy!).exe
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\bin\Debug\Base Project (Always Copy!).pdb
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Base Project (Always Copy!).pdb
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Tile_Engine.Screen.resources
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Tile_Engine.Properties.Resources.resources
+C:\Users\Pritchy\Desktop\GitHub\Tile_Engine\Base Project (Always Copy!)\obj\Debug\Tile Engine.csprojResolveAssemblyReference.cache
